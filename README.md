@@ -14,9 +14,11 @@ Cable de programación JTAG
 
 📂 Estructura del Proyecto
 
-/Decodificador_BCD
+/decodificador_BCD
 
-│── BCD.v # Módulo principal con compuertas lógicas
+│── BCD.v # Módulo principal para decodificador
+
+│── display.v # Modulo para el display de 7 segmentos
 
 │── BCD_tb.v # Testbench para simulación
 
