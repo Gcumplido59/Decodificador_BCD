@@ -1,6 +1,7 @@
 # Decodificador_BCD
 
 📌 Descripción
+
 Entradas: 10 switches para numero binario, salida: 4 Displays para numero en decimal.
 Este proyecto implementa y prueba compuertas lógicas en un FPGA utilizando Quartus y Verilog, lo que se espera son 10 entradas que forman un numero binario (Num. max: 1023) y de salida aparecerá el numero decimal en 4 displays.
 
