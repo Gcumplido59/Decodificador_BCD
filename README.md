@@ -24,8 +24,8 @@ Cable de programación JTAG
 
 │── BCD_tb.v # Testbench para simulación
 
-│── BCD.qpf # Archivo del proyecto en Quartus
+│── decodificador_BCD.qpf # Archivo del proyecto en Quartus
 
-│── BCD.qsf # Archivo de configuración del FPGA
+│── decodificador_BCD.qsf # Archivo de configuración del FPGA
 
 │── README.md # Este archivo
