@@ -1,5 +1,6 @@
 # Decodificador_BCD
-##Gael Cumplido Mendoza - A01029238
+Gael Cumplido Mendoza - A01029238
+
 📌 Descripción
 
 Entradas: 10 switches para numero binario, salida: 4 Displays para numero en decimal.
